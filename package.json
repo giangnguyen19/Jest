@@ -1,23 +1,23 @@
 {
-  "name": "Jest",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/giangnguyen19/Jest.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/giangnguyen19/Jest/issues"
-  },
-  "homepage": "https://github.com/giangnguyen19/Jest#readme",
-  "devDependencies": {
-    "jest": "^26.4.2"
-  }
+    "name": "Jest",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "Jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/giangnguyen19/Jest.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/giangnguyen19/Jest/issues"
+    },
+    "homepage": "https://github.com/giangnguyen19/Jest#readme",
+    "devDependencies": {
+        "jest": "^26.4.2"
+    }
 }
